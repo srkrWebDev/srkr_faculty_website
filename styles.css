@@ -1,3 +1,18 @@
+.sab1{
+    width: 40vh;
+    height: 300px;
+}
+.sab2{
+    width: 60%;
+    margin-top: 10%;
+    margin: auto;
+}
+
+.bgs{
+    background-color: black;
+    background-size: cover;
+    height: 70vh;
+}
 .navback{
     background-color: #537FE7;
 }
