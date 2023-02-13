@@ -1,0 +1,53 @@
+.navback{
+    background-color: #1B2430;
+}
+.navlink{
+    color: black;
+}
+.navmar{
+    margin-right: 700px;
+}
+.heading{
+    padding-top: 17%
+}
+.aspsize{
+    padding: 5% 6% 0 6%;
+}
+.active{
+  background-color: black;
+}
+@media screen and (max-width:1300px){
+    .navmar{
+    margin-right: 420px;
+}
+    
+}
+.revealhod{
+    position: relative;
+    transform: translateY(50px);
+    opacity: 0;
+    transition: all 1s ease;
+}
+.activehod{
+  transform: translateY(0px);
+    opacity: 1;
+}
+@media screen and (max-width:950px){
+    .navback1{
+    background-color: #1B2430;
+}
+    .navmar{
+        margin-right: 214px;
+    }
+    .heading{
+    padding-top: 40%;
+}
+}
+@media screen and (max-width:550px){
+    .navmar{
+        margin-right: 80px;
+    }
+    .heading{
+    padding-top: 45%;
+}
+}
