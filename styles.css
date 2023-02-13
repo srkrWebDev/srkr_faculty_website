@@ -11,7 +11,7 @@
     padding: 5% 6% 0 6%;
 }
 .active{
-  background-color: black;
+  background-color: #537FE7;
 }
 @media screen and (max-width:1300px){
     .navmar{
@@ -31,7 +31,7 @@
 }
 @media screen and (max-width:950px){
     .navback1{
-    background-color: #1B2430;
+    background-color: #537FE7;
 }
     .navmar{
         margin-right: 214px;
