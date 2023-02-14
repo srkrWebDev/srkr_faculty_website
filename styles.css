@@ -1,3 +1,7 @@
+.sab1{
+    width: 40vh;
+    height: 70vh;
+}
 .sab2{
     width: 60%;
     margin-top: 10%;
@@ -52,5 +56,13 @@
     .navmar{
         margin-right: 80px;
     }
+}
+.bg-container{
+    background-color: #b7e5f3;
+    height: 287vh;
+    padding-top: 30px;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
 }
 
