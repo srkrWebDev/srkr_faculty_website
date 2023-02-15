@@ -4,7 +4,9 @@
     margin-top: 10%;
     margin: auto;
 }
-
+.navback{
+    background-color: #537FE7;
+}
 .bgs{
     background-color: #7286D3;
     background-size: cover;
