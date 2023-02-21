@@ -16,7 +16,7 @@
     background-color: #537FE7;
 }
 .navmar{
-    margin-right: 665px;
+    margin-right: 560px;
 }
 .aspsize{
     padding: 5% 6% 0 6%;
@@ -51,6 +51,40 @@
 @media screen and (max-width:550px){
     .navmar{
         margin-right: 80px;
+    }
+    .bg-container1{
+
+        background-color: #C0EEF2;
+    
+        height: 10vh;
+    
+        padding-top: 30px;
+    
+        width: 90%;
+    
+        margin: auto;
+    
+        border-radius: 10px;
+    
+    }
+    
+    .bg-container2{
+    
+        background-color:#C0EEF2;
+    
+        background-size: cover;
+        height: 5vh;
+    
+    }
+    
+    
+    .img1{
+    
+        height: 150px;
+        width: 100%;
+        margin-left: 120px;
+        border-radius: 30px;
+    
     }
 }
 .bg-container{
